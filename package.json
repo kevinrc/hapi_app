@@ -18,6 +18,6 @@
   "homepage": "https://github.com/kevinrc/hapi_app#readme",
   "dependencies": {
     "hapi": "^16.5.2",
-    "hapi_plugin": "file:../hapi_plugin"
+    "hapi_plugin": "git+https://github.com/kevinrc/hapi_plugin.git"
   }
 }
