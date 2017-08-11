@@ -1,0 +1,23 @@
+{
+  "name": "hapi_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinrc/hapi_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinrc/hapi_app/issues"
+  },
+  "homepage": "https://github.com/kevinrc/hapi_app#readme",
+  "dependencies": {
+    "hapi": "^16.5.2",
+    "hapi_plugin": "file:../hapi_plugin"
+  }
+}
